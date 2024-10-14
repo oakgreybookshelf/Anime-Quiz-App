@@ -74,11 +74,15 @@ body {
 .correct {
     background-color: rgb(100, 255, 100);
     color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8 px rgba(0, 0, 0, 0.1);
 }
 
 .wrong {
     background-color: rgb(255, 100, 100);
     color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8 px rgba(0, 0, 0, 0.1);
 }
 
 .fade-in {
