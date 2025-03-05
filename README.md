@@ -1,0 +1,1 @@
+I used HTML, CSS, and JavaScript to create an interactive quiz. Quiz users answer questions about anime. After they submit their answers, a results page displays the user's score and the question answer key.
